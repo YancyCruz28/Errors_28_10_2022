@@ -1,0 +1,7 @@
+console.log("Binevenidos al infierno :)")
+require("./1.counter")
+require("./2.hell")
+require("./3.Js_is_not_fun")
+require("./4.more_errors")
+require("./5.monster_error")
+require("./6.write_to_teacher")
